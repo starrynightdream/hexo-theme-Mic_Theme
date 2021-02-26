@@ -4,7 +4,7 @@
 
 # Head info
 head:
-    favicon: "/img/logo_miccall.png"
+    favicon: "img/logo_miccall.png"
     keywords: miccall
     backgroundpic : "img/bg.jpg"
 
@@ -27,21 +27,21 @@ Nav:
         # 500px: http://500px.com
         
     pages:
-        简历: 
-            link: "/about/"
-        团队 :
-            link: "/group/"
-        图库 :
-            link: "/gallery/"
-        标签:
-            link: "/tag/"
+        # 简历: 
+        #     link: "/about/"
+        # 团队 :
+        #     link: "/group/"
+        # 图库 :
+        #     link: "/gallery/"
+        # 标签:
+        #     link: "/tag/"
         #自定义标签名
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
-    description: Technical  Artist  of  Games   
-    pic_url: /images/me.jpg
+    name: 这里可能需要一个名称
+    description: 但天知道这里应该这么介绍。。。 
+    pic_url: images/me.jpg
     goto_ulr: ""
 
 Gallery :
